@@ -1,2 +1,4 @@
 # ShitalNaikawadi.github.io
-WEB-DEV BOOTCAMP SHAPEAI
+Hi I am Shital Naikawadi
+I am a student
+I made this project during bootcamp conducted by SHAPEAI Mr.Shaurya Sinha
